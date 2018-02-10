@@ -1,0 +1,376 @@
+/*cajas*/
+#padre{
+    width: 1000px;
+    height: 730px;
+    background: #D0DADA;
+}
+#caja1{
+	width:900px;
+	height: 80px;
+	background: #E5E7E9;
+	position: absolute;
+    top: 68px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+
+#caja2{
+	width: 300px;
+	height: 250px;
+	background: white;
+	clear:left;
+	position: absolute;
+    opacity: 0.5;
+}
+
+#caja3{
+	width: 900px;
+	height: 250px;
+	background-image: url("files/busi.jpg");
+	position: relative;
+    top: 140px;
+    left: 42px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+
+}
+
+#caja4{
+	width: 250px;
+	height: 200px;
+	background: white;
+	position: absolute;
+    top: 20px;
+    left: 25px;
+    -moz-box-shadow: 8px 8px 14px 10px #DCD6D6;
+    -webkit-box-shadow: 8px 8px 14px 10px #DCD6D6;
+    box-shadow: 8px 8px 14px 10px #DCD6D6;
+}
+
+#caja5{
+	width:250px;
+	height: 200px;
+	background: white;
+	position: absolute;
+    top: 20px;
+    left: 325px;
+    -moz-box-shadow: 8px 8px 14px 10px #DCD6D6;
+    -webkit-box-shadow: 8px 8px 14px 10px #DCD6D6;
+    box-shadow: 8px 8px 14px 10px #DCD6D6;
+}
+#caja6{
+    width:250px;
+    height: 200px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 625px;
+    -moz-box-shadow: 8px 8px 14px 10px #DCD6D6;
+    -webkit-box-shadow: 8px 8px 14px 10px #DCD6D6;
+    box-shadow: 8px 8px 14px 10px #DCD6D6;
+}
+#caja7{
+    width: 50px;
+    height: 50px;
+    background: white;
+    position: absolute;
+    top: 250px;
+    left: 850px;
+}
+#abajo{
+    width: 900px;
+    height: 300px;
+    background: #E5E7E9;
+    position: relative;
+    top: 140px;
+    left: 42px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+#bill{
+    width: 900px;
+    height: 220px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    text-align: justify;
+}
+
+#ifr{
+    width: 900px;
+    height: 250px;
+    position: absolute;
+    top: 350px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    text-align: justify;
+}
+
+#formula{
+    width: 900px;
+    height: 500px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+
+#imagen{
+    float: left;
+    margin: 0 0 10px 10px;
+}
+
+fieldset{
+    background-color: #85C1E9  ;
+}
+
+.tabla{
+     width: 900px;
+    height: 650px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+#father{
+    width: 1000px;
+    height: 800px;
+    background: #D0DADA;
+}
+
+.tit{
+    background-color: #7DCEA0;
+        color: black;
+}
+
+.tit2{
+    background-color: #FFFFFF;
+        color: black;
+}
+
+#ser{
+    width:900px;
+    height: 80px;
+    background: #E5E7E9;
+    position: absolute;
+    top: 148px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+
+#vid{
+    width:900px;
+    height: 350px;
+    background: #E5E7E9;
+    position: absolute;
+    top: 228px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+
+.serv{
+    width:900px;
+    height: 500px;
+    background: #E5E7E9;
+    position: absolute;
+    top: 228px;
+    left: 50px;
+     -moz-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    -webkit-box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+    box-shadow: 8px 8px 14px 10px #ABB2B9  ;
+}
+
+
+/*menu*/
+.menuTemplate3{
+    margin: 0 auto; width: auto;
+    behavior: url("/horizontal/menuh/cssmenu.htc"); 
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    z-index:4;
+    height: 36px;
+    background: #DCD6D6; /*color del menu sin presionar  */
+    border: 1px solid #111;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding: 0;
+}
+
+.menuTemplate3 div {
+    box-sizing:content-box;
+}  
+
+.menuTemplate3 li
+{
+    padding: 0;
+    float: left;
+    height: 36px;
+    position: relative;/*delete it if you want submenu to be positioned relative to the whole menu instead of this li element*/
+    color: #EEE;
+    z-index:5;
+}
+
+.menuTemplate3 li:hover, .menuTemplate3 li.onhover
+{
+    border-top:0;
+}
+.menuTemplate3 a
+{
+    padding: 0 30px;
+    line-height: 36px; /*Note: keep this value the same as the height of .menuTemplate3 li */
+    font-size: 12px;
+    font-weight: normal;
+    display: inline-block;
+    outline: 0;
+    text-decoration: none;
+    color: #010101; /*color de las letras sin presionar*/
+    position: relative;
+}
+.menuTemplate3 li:hover a, .menuTemplate3 li.onhover a
+{
+    background-color: #FFFFFF; /*color del menu al estar el cursor sobre el*/
+    color: #010101; /*color de la letra*/
+    z-index: 9;
+}
+.menuTemplate3 a.arrow
+{
+    background: url(arrow.gif) no-repeat right center;
+}
+ 
+        
+/*Used to align a top-level item to the right*/        
+.menuTemplate3 li.menuRight
+{
+    float: right;
+    margin-right: 0px;
+}
+        
+/*for the top-level separators*/
+.menuTemplate3 li.separator
+{
+    font-size:0;
+    overflow:hidden;
+    border-left:1px solid #aaa;
+    height:20px;
+    margin-top:8px;
+    z-index:4;
+}
+               
+        
+/* sub level
+--------------------------------------------*/
+        
+.menuTemplate3 .drop{
+    position: absolute;
+    z-index:5;
+    left: -9999px;
+    border: 1px solid #000;
+    background: #FFFFFF; /*fondo submenu*/           
+    text-align: left;
+    padding: 20px;  
+    top:35px;
+	color:#999;
+}
+
+.menuTemplate3 .drop a
+{
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height: 26px;
+    font-size: 12px;
+    font-weight: normal;
+    display: inline;
+    text-align: left;
+    
+    position: static;
+    z-index: 0;
+}
+
+.menuTemplate3 li:hover .drop, .menuTemplate3 li.onhover .drop
+{
+    left: -1px;/*Use this property to change offset of the dropdown*/
+}
+.menuTemplate3 li:hover .dropToLeft, .menuTemplate3 li.onhover .dropToLeft
+{
+    left: auto;
+    right: -1px;
+}
+.menuTemplate3 li:hover .dropToLeft2, .menuTemplate3 li.onhover .dropToLeft2
+{
+    left: auto;
+    right: -60px;
+}
+
+/* Elements within the drop down sub-menu
+--------------------------------------------*/
+
+.menuTemplate3 div.drop div div
+{
+    padding: 6px 20px;
+}
+.menuTemplate1 li:hover .drop a, .menuTemplate1 li.onhover .drop a
+{
+    background: none;
+    background-image:none;
+    padding:0 0;
+}
+.menuTemplate3 div.drop div a
+{
+    line-height: 24px;  
+	color:black; /*color de la letra submenu*/
+    background:none;
+}
+.menuTemplate3 div.drop div a:hover
+{
+    text-decoration:underline;
+    cursor:pointer;
+    color:DCD6D6;
+}
+
+.menuTemplate3 div.left {float:left;}
+
+ 
+/* CSS3 effects
+--------------------------------------------*/
+ 
+/*for top-level*/       
+.decor3_1 
+{
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+
+    -moz-box-shadow: 1px 2px 4px 2px #999;
+    -webkit-box-shadow: 1px 2px 4px 2px #999;
+    box-shadow: 1px 2px 4px 2px #999;
+}
+
+/*for submenu.*/   
+.decor3_2 
+{
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+
+    -moz-box-shadow: 0px 8px 14px #DCD6D6;
+    -webkit-box-shadow: 0px 8px 14px #DCD6D6;
+    box-shadow: 0px 8px 14px #DCD6D6;  
+}
